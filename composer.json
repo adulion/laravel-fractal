@@ -1,11 +1,11 @@
 {
-    "name": "gathercontent/laravel-fractal",
-    "description": "A Laravel Service Provider for Fractal",
+    "name": "adulion/laravel-fractal",
+    "description": "A Fork of Laravel Service Provider for Fractal",
     "license": "MIT",
     "authors": [
         {
-            "name": "Andrew Cairns",
-            "email": "andrew@gathercontent.com"
+            "name": "chris",
+            "email": "chris@justni.com"
         }
     ],
     "require": {
